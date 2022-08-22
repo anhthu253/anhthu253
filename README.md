@@ -7,4 +7,4 @@ Schedule
 - eat
 - sleep
 - code
-- sport
+- drink
